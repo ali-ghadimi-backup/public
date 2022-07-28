@@ -1,0 +1,1 @@
+# minibid_microservice
